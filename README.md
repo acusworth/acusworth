@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acusworth
 - 👀 I’m interested in learning more security engineering
-- 🌱 I’m currently learning the AWS Networking
-- 📫 You can reach me on twitter <a href="https://twitter.com/alexcusworth">@AlexCusworth</a> or BlueSky at <a href="https://bsky.app/profile/acusworth.bsky.social">@acusworth.bsky.social</a>
+- 🌱 I’m currently learning Kubernetes security
+- 📫 You can reach me on BlueSky at <a href="https://bsky.app/profile/acusworth.bsky.social">@acusworth.bsky.social</a>
 
 <!---
 acusworth/acusworth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
